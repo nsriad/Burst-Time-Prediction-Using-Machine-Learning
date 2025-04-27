@@ -1,0 +1,7 @@
+Feature,Reason for Selection
+SubmitTime,Reflects the process arrival time.
+UserID,Reflects the type of the user and his importance.
+Used Memory,Reflects the size of memory the process will need in advance.
+ReqTime,Reflects the initial expected time for the process to finish her task.
+ReqMemory,Reflects the amount of memory the process will need in addition to the used memory which has.
+RunTime,Provides actual job execution duration.
