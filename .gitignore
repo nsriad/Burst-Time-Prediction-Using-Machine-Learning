@@ -1,0 +1,24 @@
+__pycache__/
+*.py[cod]
+*$py.class
+
+brustenv/
+
+# Environment variables
+.env
+
+# Python egg info
+*.egg-info/
+
+# Cache files
+.cache/
+*.log
+*.pdf
+*.zip
+.idea/
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# OS-specific files
+.DS_Store
+Thumbs.db

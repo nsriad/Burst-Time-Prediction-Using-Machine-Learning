@@ -1,0 +1,6 @@
+Model,Avg Total Time (s),Avg Per-Sample Time (ms)
+ExponentialAvg,0.00313,0.003606
+MLP,0.021633,0.0249
+Random Forest,0.057667,0.0665
+KNN,0.011267,0.012933
+Decision Tree,0.0029,0.003333
